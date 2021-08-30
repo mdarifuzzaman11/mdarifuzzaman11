@@ -1,16 +1,16 @@
 <h2> Hey there! I'm Arif.</h2>
 
-<!---heading-->
+<!--heading-->
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<!---about me-->
+<!--about me-->
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<!---Current Position-->
+<!--Current Position-->
 **💼 Currently working as:** Software Engineering Intern at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
 
 
@@ -68,7 +68,7 @@
 
 
 <!--My profile Visitor Stats-->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdarifuzzaman11.mdarifuzzaman11)
  
 
 <!--My Social Media Accounts-->

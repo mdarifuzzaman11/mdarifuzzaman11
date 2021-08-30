@@ -52,10 +52,6 @@
 <!--Current Projects I am working on-->
 <br>
 <Most Recent Projects>
-<summary>
-  Most Recent Projects
-</summary>
-
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)

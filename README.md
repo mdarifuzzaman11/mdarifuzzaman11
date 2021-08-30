@@ -41,17 +41,10 @@
 
 <br/>
  
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-
-
-### You can find in me in the web 🌍
-[<img align="left" alt="mdarifuzzaman11" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mdarifuzzaman11" | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="mdarifuzzaman11" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mdarifuzzaman11" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mdarifuzzaman11" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-"
-<br/>
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/EngincanVeske)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/engincan-veske-b4a75b145/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10477283/engin-veske)](https://stackoverflow.com/users/10477283/engin-veske)
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@enginveske)
+[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers)
  
 ⭐️ From [mdarifuzzaman11](https://github.com/mdarifuzzaman11)

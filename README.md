@@ -5,13 +5,13 @@
 
 <!--about me-->
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Earned Bachelor Degree in Computer Engineering.
+- 💼 &nbsp; Working as a Freelancer at UpWork and Full Time with DOITT.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Microsoft Azure and Amazon AWS   
+- ✍️ &nbsp; Pursuing Software Engeering and Software Test Engineer as hobbies/side hustles.
 
 <!--Current Position-->
-**💼 Currently working as:** Software Engineering Intern at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
+**💼 Currently working as:** Desktop Engineer at <a href="https://www1.nyc.gov/site/doitt/index.page" target="_blank"><b>DOITT</b></a>
 
 
 <!--what I know -->

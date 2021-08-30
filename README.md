@@ -48,7 +48,9 @@
 
 <br/>
 
+
 <!--Current Projects I am working on-->
+<br>
 <details>
 <summary>
   Projects I am currently working on
@@ -68,9 +70,9 @@
 </details>
 
 <!--My profile Visitor Stats-->
-<br>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
-<br />
+ 
 
  
 ### You can find in me in the web 🌍

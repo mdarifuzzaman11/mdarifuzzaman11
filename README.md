@@ -43,7 +43,7 @@
  
 ### You can find in me in the web 🌍
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/mdarifuzzaman11)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/mdarifuzzaman11/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/md-arifuzzaman11/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10477283/engin-veske)](https://stackoverflow.com/users/10477283/mdarifuzzaman11)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@mdarifuzzaman11)
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mdarifuzzaman11?tab=followers)

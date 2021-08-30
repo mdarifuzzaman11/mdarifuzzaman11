@@ -64,17 +64,14 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 
 <br />
-
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
 
-<!--My profile Visitor Stats-->
 
+<!--My profile Visitor Stats-->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
  
 
- 
+<!--My Social Media Accounts-->
 ### You can find in me in the web 🌍
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/mdarifuzzaman11)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/md-arifuzzaman11/)

@@ -51,7 +51,7 @@
 
 <!--Current Projects I am working on-->
 <br>
-<Projects I am currently working on>
+<Details>
 <h2>
   Most Recent Projects
 </h2>

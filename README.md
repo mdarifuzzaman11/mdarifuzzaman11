@@ -50,10 +50,10 @@
 
 
 <!--Current Projects I am working on-->
+<br>
 <summary>
   Most Recent Projects
 </summary>
-<br>
 <Most Recent Projects>
 <br />
 

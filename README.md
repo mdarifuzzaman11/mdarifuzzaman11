@@ -38,7 +38,7 @@
 </a>
 
 <br/>
-![Profile views](https://gpvc.arturio.dev/mdarifuzzaman11)  <img src="https://img.shields.io/github/followers/mdarifuzzaman11?label=Follow" style=" float:left, margin-right:10px" />
+ 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 

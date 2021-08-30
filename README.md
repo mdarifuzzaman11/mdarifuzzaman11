@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @mdarifuzzaman11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2> Hey there! I'm Arif.</h2>
 
-<!---
-mdarifuzzaman11/mdarifuzzaman11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+

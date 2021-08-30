@@ -51,10 +51,10 @@
 
 <!--Current Projects I am working on-->
 <br>
-<Details>
-<h2>
+<Most Recent Projects>
+<summary>
   Most Recent Projects
-</h2>
+</summary>
 
 <br />
 

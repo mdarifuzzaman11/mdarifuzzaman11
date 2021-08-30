@@ -1,15 +1,20 @@
 <h2> Hey there! I'm Arif.</h2>
-<!---Testing-->
+
+<!---heading-->
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+<!---about me-->
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
+<!---Current Position-->
 **💼 Currently working as:** Software Engineering Intern at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
 
+
+<!--what I know -->
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">

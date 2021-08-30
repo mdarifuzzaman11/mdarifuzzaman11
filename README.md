@@ -52,9 +52,9 @@
 <!--Current Projects I am working on-->
 <br>
 <details>
-<summary>
+<h2>
   Projects I am currently working on
-</summary>
+</h2>
 
 <br />
 

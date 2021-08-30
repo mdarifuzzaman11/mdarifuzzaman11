@@ -36,9 +36,11 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-### Other Languages I know
+<!--Other Languages I am Learning-->
+### Other Languages I am Learning
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
+<!--GITHUB Profile stats-->
 <a href="https://github.com/mdarifuzzaman11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdarifuzzaman11&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarifuzzaman11&theme=buefy&layout=compact" />
@@ -46,6 +48,7 @@
 
 <br/>
 
+<!--Current Projects I am working on-->
 <details>
 <summary>
   Projects I am currently working on
@@ -64,8 +67,10 @@
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
 
+<!--My profile Visitor Stats-->
+<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
-
+<br />
 
  
 ### You can find in me in the web 🌍

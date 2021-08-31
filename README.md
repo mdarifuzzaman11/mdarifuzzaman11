@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Earned Bachelor Degree in Computer Engineering.
 - 💼 &nbsp; Working as a Freelancer at UpWork and Full Time with DOITT.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Microsoft Azure and Amazon AWS   
-- ✍️ &nbsp; Pursuing Software Engeering and Software Test Engineer as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Software Engineering and Software Test Engineer as hobbies/side hustles.
 
 <!--Current Position-->
 **💼 Currently working as:** Desktop Engineer at <a href="https://www1.nyc.gov/site/doitt/index.page" target="_blank"><b>DOITT</b></a>

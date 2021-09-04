@@ -37,7 +37,7 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 <!--Other Languages I am Learning-->
-### Other Languages I am Learning
+### I am Proficient in
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 <!--GITHUB Profile stats-->
@@ -57,9 +57,14 @@
 <Most Recent Projects>
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
+[![ReadMe Card](https://github.com/mdarifuzzaman11/Carfax_VIN_Automations)]
+  (https://github.com/mdarifuzzaman11/Carfax_VIN_Automations)
+  
+  
+[![ReadMe Card](https://github.com/mdarifuzzaman11/disney-plus-clone)](https://github.com/mdarifuzzaman11/disney-plus-clone)
+  
+[![ReadMe Card](https://github.com/mdarifuzzaman11/Expense-Tracker-Using-React-JS)](https://github.com/mdarifuzzaman11/Expense-Tracker-Using-React-JS)
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 
 <br />

@@ -57,15 +57,10 @@
 <Most Recent Projects>
 <br />
 
-[![ReadMe Card](https://github.com/mdarifuzzaman11/Carfax_VIN_Automations)]
-  (https://github.com/mdarifuzzaman11/Carfax_VIN_Automations)
-  
-  
-[![ReadMe Card](https://github.com/mdarifuzzaman11/disney-plus-clone)](https://github.com/mdarifuzzaman11/disney-plus-clone)
-  
-[![ReadMe Card](https://github.com/mdarifuzzaman11/Expense-Tracker-Using-React-JS)](https://github.com/mdarifuzzaman11/Expense-Tracker-Using-React-JS)
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdarifuzzaman11&repo=disney-plus-clone)](https://github.com/mdarifuzzaman11/disney-plus-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdarifuzzaman11&repo=Carfax_VIN_Automations)](https://github.com/mdarifuzzaman11/Carfax_VIN_Automations)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdarifuzzaman11&repo=Expense-Tracker-Using-React-JS)](https://github.com/mdarifuzzaman11/Expense-Tracker-Using-React-JS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdarifuzzaman11&repo=Covid19_Tracker)](https://github.com/mdarifuzzaman11/Covid19_Tracker)
 
 <br />
 </details>

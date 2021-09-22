@@ -47,12 +47,10 @@
 
 <br/>
 
-
 <!--Current Projects I am working on-->
 <br>
 
 ### Most Recent Projects
-
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdarifuzzaman11&repo=disney-plus-clone)](https://github.com/mdarifuzzaman11/disney-plus-clone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdarifuzzaman11&repo=Carfax_VIN_Automations)](https://github.com/mdarifuzzaman11/Carfax_VIN_Automations)

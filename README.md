@@ -60,21 +60,39 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdarifuzzaman11&repo=Carfax_VIN_Automations)](https://github.com/mdarifuzzaman11/Carfax_VIN_Automations)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdarifuzzaman11&repo=Expense-Tracker-Using-React-JS)](https://github.com/mdarifuzzaman11/Expense-Tracker-Using-React-JS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdarifuzzaman11&repo=Covid19_Tracker)](https://github.com/mdarifuzzaman11/Covid19_Tracker)
-
 <br />
 </details>
-
-
-<!--My profile Visitor Stats-->
+<!--My profile Visitor Stats
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdarifuzzaman11.mdarifuzzaman11)
- 
+-->
+
+### 🌴 Fun facts
+- I Love to Travel.
+- I Love Food, so I travel for Food 😂
+
+ #### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/mdarifuzzaman11/count.svg)
 
 <!--My Social Media Accounts-->
 ### You can find in me in the web 🌍
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/mdarifuzzaman11)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/md-arifuzzaman11/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10477283/engin-veske)](https://stackoverflow.com/users/10477283/mdarifuzzaman11)
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@mdarifuzzaman11)
-[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mdarifuzzaman11?tab=followers)
- 
+
+<a href="https://www.linkedin.com/in/md-arifuzzaman11//">
+  <img align="left" alt="Arif's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/mdarifuzzaman11/">
+  <img align="left" alt="Arif's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/_mdarifuzzaman/">
+  <img align="left" alt="Arif's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<br>
+
+
+
 ⭐️ From [mdarifuzzaman11](https://github.com/mdarifuzzaman11)

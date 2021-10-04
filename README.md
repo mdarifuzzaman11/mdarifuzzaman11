@@ -11,6 +11,7 @@
 - ✍️ &nbsp; Pursuing Software Engineering and Software Test Engineer as hobbies/side hustles.
 
 <!--Current Position-->
+**👨‍ CEO at CleverEngineers <br />**
 **💼 Currently working as:** Desktop Engineer at <a href="https://www1.nyc.gov/site/doitt/index.page" target="_blank"><b>DOITT</b></a>
 
 

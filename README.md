@@ -6,7 +6,7 @@
 <!--about me-->
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Earned Bachelor Degree in Computer Engineering.
-- 🖥 &nbsp; Full time Incident Manager
+- 🖥 &nbsp; Full time Incident Manager.
 - 💼 &nbsp; Working as a Freelancer at UpWork and other agencies.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Microsoft Azure and Amazon AWS.   
 - ✍️ &nbsp; Pursuing Software Engineering and Software Test Engineer as hobbies/side hustles.
